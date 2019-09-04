@@ -1,0 +1,8 @@
+D:\Documents\Documents\SharpDevelop Projects\Level_10\Level_10\bin\Debug\Level_10.exe.config
+D:\Documents\Documents\SharpDevelop Projects\Level_10\Level_10\bin\Debug\Level_10.exe
+D:\Documents\Documents\SharpDevelop Projects\Level_10\Level_10\bin\Debug\Level_10.pdb
+D:\Documents\Documents\SharpDevelop Projects\Level_10\Level_10\obj\Debug\Level_10.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\SharpDevelop Projects\Level_10\Level_10\obj\Debug\Level_10.exe
+D:\Documents\Documents\SharpDevelop Projects\Level_10\Level_10\obj\Debug\Level_10.pdb
+D:\Documents\Documents\SharpDevelop Projects\Level_10\Level_10\obj\Debug\Level_10.csproj.GenerateResource.Cache
+D:\Documents\Documents\SharpDevelop Projects\Level_10\Level_10\obj\Debug\Level_10.MainForm.resources
